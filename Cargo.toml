@@ -14,7 +14,7 @@ readme = "README.md"
 repository = "https://github.com/Kryptonite-RU/config-manager-rs"
 license = "MIT"
 keywords = ["macro", "configuration", "environment", "command-line", "config"]
-categories = ["config", "command-line-utilities"]
+categories = ["config", "development-tools", "command-line-utilities"]
 
 [dependencies]
 clap = { version = "4.0.29", features = ["derive", "cargo"] }
